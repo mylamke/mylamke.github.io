@@ -17,9 +17,9 @@ SQL, Power BI, Python, Machine Learning
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Explore-Ecommerce-Dataset&theme=shadow_blue" />
 </a>  
-<a href="https://github.com/pth11/ML_4G_service_prediction">
+<a href="https://github.com/mylam7/ML_4G_service_project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=ML_4G_service_project&theme=shadow_blue" />
 </a>  
 
 ### **Education & Certificates**
