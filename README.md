@@ -1,5 +1,6 @@
-## Data Analyst
-*A fresher Data Analyst who loves to play with code and figures to create amazing stories*
+## A passionate about the power of data
+*Hi there, It's My Lam aka Khloe here
+I'm a detail-oriented and results-driven Data Analyst, I possess a knack for deciphering complex information to drive actionable outcomes. My journey includes merging technical expertise with effective communication, I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python and Power BI, enabling me to manipulate data with precision and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to make a meaningful impact on data-driven initiatives.*
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
@@ -10,21 +11,14 @@
 - Machine Learning: Supervised Learning
  
 ### **Projects for sharing**
-<a href="https://github.com/pth11/Python_RFM_Analysis">
+
+<a href="https://github.com/mylam7/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_RFM_Analysis&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-PBI&theme=shadow_blue" />
 </a>  
-<a href="https://github.com/pth11/Python_Cohort_Analysis">
+<a href="https://github.com/mylam7/Explore-Ecommerce-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_Cohort_Analysis&theme=shadow_blue" />
-</a>
-<a href="https://github.com/pth11/SQL-PBI_Inventory_Controlling">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=SQL-PBI_Inventory_Controlling&theme=shadow_blue" />
-</a>  
-<a href="https://github.com/pth11/SQL_Ecommerce_Exploring">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=SQL_Ecommerce_Exploring&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Explore-Ecommerce-Dataset&theme=shadow_blue" />
 </a>  
 <a href="https://github.com/pth11/ML_4G_service_prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
