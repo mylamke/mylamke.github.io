@@ -4,10 +4,10 @@ Hi there, It's My Lam here. A girl with a passionate about the power of data. I'
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
-### **My toolbox**
+### **My's toolbox**
 SQL, Power BI, Python, Machine Learning
  
-### **My journeys**
+### **My's journeys**
 
 <a href="https://github.com/mylam7/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
