@@ -1,6 +1,5 @@
-## A passionate about the power of data
-*Hi there, It's My Lam aka Khloe here
-I'm a detail-oriented and results-driven Data Analyst, I possess a knack for deciphering complex information to drive actionable outcomes. My journey includes merging technical expertise with effective communication, I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python and Power BI, enabling me to manipulate data with precision and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to make a meaningful impact on data-driven initiatives.*
+**My Lam**
+A passionate about the power of data. I'm a detail-oriented and results-driven Data Analyst, I possess a knack for deciphering complex information to drive actionable outcomes. My journey includes merging technical expertise with effective communication, I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python and Power BI, enabling me to manipulate data with precision and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to make a meaningful impact on data-driven initiatives.*
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
@@ -14,7 +13,7 @@ I'm a detail-oriented and results-driven Data Analyst, I possess a knack for dec
 
 <a href="https://github.com/mylam7/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=SQL-PBI&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=PBI&theme=shadow_blue" />
 </a>  
 <a href="https://github.com/mylam7/Explore-Ecommerce-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
