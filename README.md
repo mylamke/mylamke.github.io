@@ -1,7 +1,7 @@
 ## Data Analyst
 *A fresher Data Analyst who loves to play with code and figures to create amazing stories*
 
-[linkedin/mylam7](https://www.linkedin.com/in/mylam7/) - mylam7397@gmail.com
+[linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
 ### **Technical Skills**
 - SQL: MySQL, PostgreSQL, Google BigQuery
@@ -34,10 +34,9 @@
 ### **Education & Certificates**
 **Centria University of  Applied Sciences** - BA in Business Management	 (Sept 2019 - Feb 2022)
 
-**Industrial University of Ho Chi Minh City** - BA in Banking & Finance (Sept 2015 - Jun 2019)
+**Industrial University of Ho Chi Minh City** - BA in Banking & Finance (Sept 2015 - Jun 2018)
 
-**SQL Intermediate Certificate at Hackerrank** (Jun 2023)
-[Certificate](https://www.hackerrank.com/certificates/17b0cfed2ea2)
-**SQL Advanced Certificate at Hackerrank** (Jul 2023)
-[Certificate](https://www.hackerrank.com/certificates/2f2af6f89d1c)
+[**SQL Intermediate Certificate at Hackerrank**](https://www.hackerrank.com/certificates/17b0cfed2ea2) (Jun 2023)
+
+[**SQL Advanced Certificate at Hackerrank**](https://www.hackerrank.com/certificates/2f2af6f89d1c) (Jul 2023)
 
