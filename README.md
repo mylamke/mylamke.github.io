@@ -4,13 +4,10 @@ Hi there, It's My Lam here. A girl with a passionate about the power of data. I'
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
-### **Technical Skills**
-- SQL: MySQL, PostgreSQL, Google BigQuery
-- Power BI: DAX, Power Query, Data Modeling
-- Python: Pandas, NumPy, MatPlotLib, Seaborn
-- Machine Learning: Supervised Learning
+### ** My toolbox **
+SQL, Power BI, Python, Machine Learning
  
-### **Projects for sharing**
+### **My journies**
 
 <a href="https://github.com/mylam7/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
