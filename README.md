@@ -1,6 +1,6 @@
-**Data isn't a job, it's a boundless passion**
+**Data isn't a job; it's a boundless passion**
 
-Hi there, It's My Lam here. A girl with a passionate about the power of data. I'm a detail-oriented and results-driven Data Analyst. My journey includes merging technical expertise with effective communication, I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python and Power BI, enabling me to manipulate data with precision and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to make a meaningful impact on data-driven initiatives.
+Hi there, It's My Lam here—a girl with a passion for the power of data. I'm a detail-oriented and results-driven Data Analyst. My journey includes merging technical expertise with effective communication; I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python, and Power BI, enabling me to precisely manipulate data and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to impact data-driven initiatives meaningfully.
 
 [linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
 
