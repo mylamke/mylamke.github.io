@@ -32,8 +32,15 @@
 </a>  
 
 ### **Education & Certificates**
-**Centria University of  Applied Sciences** - BA in Business Management	 (Sept 2019- Feb 2022)
+**Centria University of  Applied Sciences** - BA in Business Management	 (Sept 2019 - Feb 2022)
 
-**Industrial University of Ho Chi Minh City** -BA in Banking & Finance (Sept 2015- Jun 2019)
+**Industrial University of Ho Chi Minh City** - BA in Banking & Finance (Sept 2015 - Jun 2019)
 
+**SQL Intermediate Certificate at Hackerrank** (Jun 2023)
+
+https://www.hackerrank.com/certificates/17b0cfed2ea2
+
+**SQL Advanced Certificate at Hackerrank** (Jul 2023)
+
+https://www.hackerrank.com/certificates/2f2af6f89d1c
 
