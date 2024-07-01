@@ -2,24 +2,24 @@
 
 Hi there, It's My Lam here—a girl with a passion for the power of data. I'm a detail-oriented and results-driven Data Analyst. My journey includes merging technical expertise with effective communication; I bridge the gap between raw data and strategic action. My toolbox includes SQL, Python, and Power BI, enabling me to precisely manipulate data and transform raw data into impactful narratives that inform decision-makers. With a passion for continuous learning and problem-solving, I am eager to utilize my analytical skills to impact data-driven initiatives meaningfully.
 
-[linkedin](https://www.linkedin.com/in/mylam7/) / [github](https://github.com/mylam7) / mylam7397@gmail.com
+[linkedin](https://www.linkedin.com/in/mylamke/) / [github](https://github.com/mylamke) / mylam7397@gmail.com
 
 ### **My's toolbox**
 SQL, Power BI, Python, Machine Learning
  
 ### **My's journeys**
 
-<a href="https://github.com/mylam7/PBI">
+<a href="https://github.com/mylamke/PBI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=PBI&theme=shadow_blue" />
 </a>  
-<a href="https://github.com/mylam7/Explore-Ecommerce-Dataset">
+<a href="https://github.com/mylamke/Explore-Ecommerce-Dataset">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=Explore-Ecommerce-Dataset&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=Explore-Ecommerce-Dataset&theme=shadow_blue" />
 </a>  
-<a href="https://github.com/mylam7/ML_4G_service_project">
+<a href="https://github.com/mylamke/ML_4G_service_project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylam7&repo=ML_4G_service_project&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mylamke&repo=ML_4G_service_project&theme=shadow_blue" />
 </a>  
 
 ### **Education & Certificates**
